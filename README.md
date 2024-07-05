@@ -1,9 +1,7 @@
 ## 꿈꾸는 개발자 박한경입니다.
 
 <div align="center">
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{HanKyungPark}?pet-id=1" width="1000" height="120"/>
-</a>
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=HanKyungPark&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
