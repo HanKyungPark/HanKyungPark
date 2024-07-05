@@ -1,7 +1,4 @@
 ## 꿈꾸는 개발자 박한경입니다.
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{HanKyungPark}?pet-id=1" width="1000" height="120"/>
-</a>
 <!--
 **HanKyungPark/HanKyungPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
