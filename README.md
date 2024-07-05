@@ -3,6 +3,12 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{HanKyungPark}?pet-id=1" width="1000" height="120"/>
 </a>
+
+
+![](https://github-readme-stats.vercel.app/api?username=HanKyungPark&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HanKyungPark&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HanKyungPark&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 <!--
 **HanKyungPark/HanKyungPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
