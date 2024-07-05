@@ -2,27 +2,7 @@
 
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{HanKyungPark}?pet-id=1" width="1000" height="120"/>
-</a>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{HanKyungPark}?pet-id=596924823013968277" width="1000" height="120"/>
-</a>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{HanKyungPark}?pet-id=596924823013968278" width="1000" height="120"/>
-</a>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{HanKyungPark}?pet-id=596924823013968279" width="1000" height="120"/>
-</a>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{HanKyungPark}?pet-id=596924823013968280" width="1000" height="120"/>
-</a>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{HanKyungPark}?pet-id=596924823013968281" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/{HanKyungPark}"/>
 </a>
 
 
