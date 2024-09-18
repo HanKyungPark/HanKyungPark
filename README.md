@@ -1,4 +1,4 @@
-## 꿈꾸는 개발자 박한경입니다.
+## 개발자 박한경입니다.
 
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
