@@ -1,4 +1,4 @@
-## 백엔드 개발자로 취업준비중인 개발자 박한경입니다.
+## 백엔드 개발자 박한경입니다.
 
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
